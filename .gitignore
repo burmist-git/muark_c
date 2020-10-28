@@ -1,0 +1,12 @@
+*~
+convert2root
+convertWaveform2root
+*.root
+tmp/
+Run_002.dat
+Run_002_wf.dat
+Run_003.dat
+Run_009_Charge_and_Time_Data_10_26_2020.dat
+Run_009_Data_10_26_2020.dat
+Run_010_Charge_and_Time_Data_10_27_2020.dat
+Run_010_Data_10_27_2020.dat
